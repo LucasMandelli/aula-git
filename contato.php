@@ -7,3 +7,10 @@
  */
 echo 'Entre em contato conosco.';
 echo '<br/>Outra linha';
+
+for ($i = 0; $i <= 10; $i++){
+    echo "Linha: $i<br/>";
+
+}
+
+
